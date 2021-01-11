@@ -64,7 +64,7 @@ namespace WpfSimpleBeam
             dial.Width = Width;
             //path = new System.Windows.Shapes.Path[1];//[sundial.ha.size()];
 
-            leftMargin = 30;
+            leftMargin = 50;
             rightMargin = 40;
 
             load.BeamY = 100; // Y ordinate
