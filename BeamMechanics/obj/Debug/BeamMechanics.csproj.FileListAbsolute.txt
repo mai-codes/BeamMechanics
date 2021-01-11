@@ -1,0 +1,6 @@
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\bin\Debug\BeamMechanics.dll
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\bin\Debug\BeamMechanics.pdb
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\obj\Debug\BeamMechanics.csprojAssemblyReference.cache
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\obj\Debug\BeamMechanics.csproj.CoreCompileInputs.cache
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\obj\Debug\BeamMechanics.dll
+C:\Users\ksarm\source\repos\BeamMechanics\BeamMechanics\obj\Debug\BeamMechanics.pdb
